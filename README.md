@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @carolinejiart
-- 👀 I’m interested in ... painting, of all things
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Python
 - 📫 How to reach me ... email caroline.ji@uwaterloo.ca
 
 <!---
